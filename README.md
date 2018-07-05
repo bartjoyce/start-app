@@ -8,7 +8,7 @@ An empty cross-platform `ddui` app that can be used to quickly get started with 
 Clone the repository, and then re-initialise the repository:
 
 ```
-$ git clone --recursive https://github.com/bartjoyce/start-app your-app
+$ git clone https://github.com/bartjoyce/start-app your-app
 $ cd your-app
 $ rm -rf .git/
 $ git init
